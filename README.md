@@ -14,8 +14,8 @@ Apply the filtering technique that we want to perform
 Show the filtered image
 
 ## Program:
-### Developed By   : ANU VARSHINI M B
-### Register Number: 212223240010
+### Developed By   : Berjin Shabeck
+### Register Number: 212222240018
 </br>
 
 ### 1. Smoothing Filters
